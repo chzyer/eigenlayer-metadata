@@ -1,7 +1,7 @@
 {
     "name": "Operator1",
-    "website": "",
-    "description": "",
-    "logo": "",
-    "twitter": ""
+    "website": "https://operator.xyz",
+    "description": "I'm an operator",
+    "logo": "https://operator.xyz/logo.png",
+    "twitter": "https://x.com/operator"
 }
